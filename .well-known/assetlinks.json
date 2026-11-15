@@ -1,1 +1,15 @@
-
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.jhamy35.feastyapp.revival",
+      "sha256_cert_fingerprints": [
+        "EE:BD:35:B6:67:BF:DC:33:F5:6B:38:A9:37:D1:0C:17:AC:AA:96:E2:FE:0D:68:9A:50:8F:6F:D6:FA:78:24:60"
+      ]
+    }
+  }
+]
